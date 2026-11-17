@@ -1,0 +1,21 @@
+Package: calculator
+Title: Basic Arithmetic Operations
+Version: 0.1.0
+Authors@R: person(
+    given = "Indar",
+    family = "Chandrakar",
+    email = "indar.chandrakards2725@gmail.com",
+    role = c("aut", "cre")
+  )
+Description: Provides simple, reliable arithmetic functions for basic
+    mathematical operations including addition, subtraction, multiplication,
+    and division, featuring comprehensive input validation and division-by-zero
+    error handling.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://github.com/indarchandrakards2725-prog/calculator
+BugReports: https://github.com/indarchandrakards2725-prog/calculator/issues
+Config/roxygen2/version: 8.1.1
